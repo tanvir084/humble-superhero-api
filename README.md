@@ -16,6 +16,24 @@ This API allows **teams** to **create and sorted list** of superheroes, each wit
 
 ---
 
+# 🏗️ Setup & Installation
+
+### 🛠️ Prerequisites
+
+| Dependency  | Version |
+|-------------|--------:|
+| **Node.js** | >=16.x  |
+| **Yarn**    | Latest  |
+| **Docker**  | Optional|
+
+### 🔹 Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/humble-superhero-api.git  
+cd humble-superhero-api
+```
+---
+
 # 📦 Dockerized Setup
 
 ### 🚀 Run the Application with Docker
